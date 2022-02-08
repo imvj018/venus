@@ -1,0 +1,18 @@
+{
+	"CustomerMaster": [{
+		"custName": "C1",
+		"custDesc": "Customer 1"
+	}, {
+		"custName": "C2",
+		"custDesc": "Customer 2"
+	}, {
+		"custName": "C3",
+		"custDesc": "Customer 3"
+	}, {
+		"custName": "C4",
+		"custDesc": "Customer 4"
+	}, {
+		"custName": "C5",
+		"custDesc": "Customer 5"
+	}]
+}
