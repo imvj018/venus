@@ -1,0 +1,29 @@
+{
+  "MaterialMaster": [
+    {
+      "MatName": "M1",
+      "MatDesc": "Material 1",
+"UOM":"KG"
+    },
+    {
+      "MatName": "M2",
+      "MatDesc": "Material 2",
+"UOM":"KG"
+    },
+    {
+      "MatName": "M3",
+      "MatDesc": "Material 3",
+"UOM":"EA"
+    },
+    {
+      "MatName": "M4",
+      "MatDesc": "Material 4",
+"UOM":"BOX"
+    },
+    {
+      "MatName": "M5",
+      "MatDesc": "Material 5",
+"UOM":"pair"
+    }
+  ]
+}
