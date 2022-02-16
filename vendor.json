@@ -1,3 +1,25 @@
 {
-  "VendorMaster": "1" 
+  "VendorMaster":
+  [
+    {
+      "VendorName": "V1",
+      "VendorDesc": "Vendor 1"
+    },
+    {
+      "VendorName": "V2",
+      "VendorDesc": "Vendor 2"
+    },
+    {
+      "VendorName": "V3",
+      "VendorDesc": "Vendor 3"
+    },
+    {
+      "VendorName": "V4",
+      "VendorDesc": "Vendor 4"
+    },
+    {
+      "VendorName": "V5",
+      "VendorDesc": "Vendor 5"
+    }
+  ]
 }
