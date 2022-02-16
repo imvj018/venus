@@ -1,5 +1,4 @@
-{
-  "VendorMaster":
+
   [
     {
       "VendorName": "V1",
@@ -22,4 +21,3 @@
       "VendorDesc": "Vendor 5"
     }
   ]
-}
