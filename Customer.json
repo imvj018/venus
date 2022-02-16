@@ -1,5 +1,4 @@
-{
-	"CustomerMaster": [{
+[{
 		"custName": "C1",
 		"custDesc": "Customer 1"
 	}, {
@@ -15,4 +14,3 @@
 		"custName": "C5",
 		"custDesc": "Customer 5"
 	}]
-}
