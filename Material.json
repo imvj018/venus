@@ -1,5 +1,4 @@
-{
-  "MaterialMaster": [
+[
     {
       "MatName": "M1",
       "MatDesc": "Material 1",
@@ -26,4 +25,3 @@
 "UOM":"pair"
     }
   ]
-}
