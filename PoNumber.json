@@ -1,5 +1,4 @@
-{
-  "Purchase Order": [
+ [
     {
       "PoNum": "PO1",
       "Vendor": "Vendor1",
@@ -26,4 +25,4 @@
 "Date":"01-01-2022"
     }
   ]
-}
+
